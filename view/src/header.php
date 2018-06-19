@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="utf-8">
 		<link rel="shortcut icon" href="view/img/loan-icon.png" type="image/x-icon" />
 		<title>Empréstimos P2P</title>
 		<link rel="stylesheet" type="text/css" href="view/css/custom.css">
